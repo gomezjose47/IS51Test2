@@ -16,3 +16,26 @@ The Average grade
 and the Percentage of grades above the average grade. 
 
 """
+
+
+"""
+Main
+# of grades
+print values, 
+assign to list of integers
+
+
+Function2
+#average
+(SumofGrades/NumberofGrades)
+PrintAverageGrade
+
+Funtion3 
+% above average grade 
+Grades > AverageGrade
+print # of grades above average assign to list of int.
+AboveAverageGrades/NumberofGrades
+
+
+
+"""
