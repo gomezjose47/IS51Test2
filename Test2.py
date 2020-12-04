@@ -39,3 +39,19 @@ AboveAverageGrades/NumberofGrades
 
 
 """
+
+
+def (main):
+  infile = open(Final.txt, "r")
+  grades = int(word) for word in infile
+  infile.close()
+  avg = average_grades
+  above_average = calculate_above_Avg_grades 
+
+def average_grades():
+  if len == 0:
+    return 0
+  avg = sum/len
+  return avg
+
+
